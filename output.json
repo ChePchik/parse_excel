@@ -1,0 +1,58 @@
+{
+  "questions": [
+    {
+      "type": "radio",
+      "question": "Что такое GIT?",
+      "answers": [
+        {
+          "text": "Распределенная система управления версиями",
+          "right": "true"
+        },
+        {
+          "text": "Текстовый редактор",
+          "right": "false"
+        },
+        {
+          "text": "Графический дизайнер",
+          "right": "false"
+        },
+        {
+          "text": "Серверная база данных",
+          "right": "false"
+        }
+      ]
+    },
+    {
+      "type": "checkbox",
+      "question": "Какими командами можно получить данные с удалённого сервера?",
+      "answers": [
+        {
+          "text": "git pull",
+          "right": "true"
+        },
+        {
+          "text": "git clone",
+          "right": "true"
+        },
+        {
+          "text": "git fetch",
+          "right": "true"
+        },
+        {
+          "text": "git download",
+          "right": "false"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "question": "Команда для переключения ветки",
+      "answers": [
+        {
+          "text": "git checkout",
+          "right": "git checkout"
+        }
+      ]
+    }
+  ]
+}
